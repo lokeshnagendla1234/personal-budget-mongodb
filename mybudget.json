@@ -1,0 +1,40 @@
+{
+    "mybudget": [
+      {
+        "title": "Eat out",
+        "budget": 40,
+        "color":"#42b3f5"
+      },
+      {
+        "title": "Rent",
+        "budget": 150,
+        "color":"#4290f5"
+      },
+      {
+        "title": "Groceries",
+        "budget": 110,
+        "color":"#6642f5"
+      },
+      {
+        "title": "Shopping",
+        "budget": 60,
+        "color":"#9c42f5"
+      },
+      {
+        "title": "Travelling",
+        "budget": 45,
+        "color":"#bc42f5"
+      },
+      {
+        "title": "Insurance",
+        "budget": 30,
+        "color":"#e342f5"
+
+      },
+      {
+        "title": "Fee",
+        "budget": 20,
+        "color":"#f542e0"
+      }
+    ]
+  }
